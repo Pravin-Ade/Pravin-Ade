@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 ## Languages and Tools
 - AWS
+- Python and Bash Scripting
 - Azure
 - Linux
 - Terraform
