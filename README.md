@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am Pravin, a Senior DevOps Engineer (Linux Admin, DevOps, Site reliability engineering (SRE)) from 🇮🇳   passionate about learning and implementing new technologies. Skilled in CI/CD, Automation, Containerization, Python, Linux, and IaC. I am an AWS Certified Cloud Practitioner and actively pursuing AWS Certified Solutions Architect Associate certification.
 <!--
 **Pravin-Ade/Pravin-Ade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
